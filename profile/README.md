@@ -31,6 +31,7 @@ irm https://raw.githubusercontent.com/fapost-jig/jig/main/install.ps1 | iex
 | | |
 |---|---|
 | [**jig**](https://github.com/fapost-jig/jig) | The framework: skills, the `jig` tool, profiles, templates and the documentation site |
+| [**jig-ui**](https://github.com/fapost-jig/jig-ui) | Optional local control center: every task, epic and spec of every connected project on one page |
 
 ## Contributing
 
